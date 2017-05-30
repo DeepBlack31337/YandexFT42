@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:scrollbars="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/spin_row"
+        android:text="Языки перевода"
+        android:textColor="#DD3300"
+        android:textStyle="italic"
+        android:textSize="18dp"
+        android:gravity="center"/>
+
+</LinearLayout>
